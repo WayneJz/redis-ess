@@ -1,2 +1,2 @@
-# redispro
-a redis module of enhanced functions
+# redis-ess
+a redis module of enhanced sortedset
